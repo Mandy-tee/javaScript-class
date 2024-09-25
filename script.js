@@ -40,3 +40,4 @@ squareNumbers(4);
 squareNumbers(12);
 
 //es6 Syntax
+//function
